@@ -1,6 +1,6 @@
 import { ChevronDown, MessageCircle } from 'lucide-react'
 
-const WHATSAPP_NUMBER = '5500000000000'
+const WHATSAPP_NUMBER = '556984545350'
 const WHATSAPP_MESSAGE = encodeURIComponent(
   'Olá! Recebi uma citação de execução e preciso de orientação especializada.'
 )
