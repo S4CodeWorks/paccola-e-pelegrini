@@ -3,3 +3,6 @@ dist
 .env
 .env.local
 .env.*.local
+optimize-images.mjs
+public/advlegrinilogo.png
+public/sociaslogoadv.jpg
